@@ -1,4 +1,3 @@
-import activitiesIcon from "@assets/icons/activities.svg";
 import hotels from "@assets/icons/hotels.svg";
 import flights from "@assets/icons/flights.svg";
 import study from "@assets/icons/study.svg";
