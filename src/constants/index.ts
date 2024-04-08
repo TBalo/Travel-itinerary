@@ -6,13 +6,14 @@ import visa from "@assets/icons/visa.svg";
 import immigration from "@assets/icons/immigration.svg";
 import medical from "@assets/icons/medical.svg";
 import vacation from "@assets/icons/vacation.svg";
+import RoadHorizon from "@assets/icons/RoadHorizon.svg";
 
 
 export const sidebarPages = [
   {
     name: "Activities",
     path: "/activites",
-    icon: activitiesIcon,
+    icon: RoadHorizon,
   },
   {
     name: "Hotels",
