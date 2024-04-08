@@ -1,6 +1,5 @@
 import React from 'react';
 import BaseButton from "@/components/base-components/base-button";
-import ActivitiesIcon from "@assets/icons/activities.svg";
 import activitiesImage from "@assets/images/activitiesImage.svg";
 import Clock from "@assets/icons/Clock.svg";
 import CaretCircleDown from "@assets/icons/CaretCircleDown.svg";

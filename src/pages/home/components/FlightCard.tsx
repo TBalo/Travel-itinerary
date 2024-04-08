@@ -1,7 +1,5 @@
 import React from 'react';
 import BaseButton from "@/components/base-components/base-button";
-import AirplaneInFlight from "@assets/icons/AirplaneInFlight.svg";
-import american_airlines_symbol from "@assets/icons/american_airlines_symbol.svg";
 import AirplaneTakeoff from "@assets/icons/AirplaneTakeoff.svg";
 import AirplaneLanding from "@assets/icons/AirplaneLanding.svg";
 import Xcancel from "@assets/icons/X.svg";

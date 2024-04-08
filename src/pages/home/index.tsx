@@ -14,12 +14,6 @@ import SwimmingPool from "@assets/icons/SwimmingPool.svg";
 import Wine from "@assets/icons/Wine.svg";
 import HotelSection from "./components/HotelSection";
 import FlightSection from "./components/FlightSection";
-import ActivitiesIcon from "@assets/icons/activities.svg";
-import activitiesImage from "@assets/images/activitiesImage.svg";
-import Clock from "@assets/icons/Clock.svg";
-import CaretCircleDown from "@assets/icons/CaretCircleDown.svg";
-import CaretCircleUp from "@assets/icons/CaretCircleUp.svg";
-import ActivityCard from "./components/ActivityCard";
 import ActivitiesSection from "./components/ActivitiesSection";
 
 const Home = () => {

@@ -1,6 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { CaretDownOutlined, CaretUpOutlined } from "@ant-design/icons";
-import React from "react";
 import { useState } from "react";
 import { NavLink, matchPath, useLocation } from "react-router-dom";
 import { twMerge } from "tailwind-merge";
